@@ -1,0 +1,109 @@
+.body {
+  font-family: "Dosis" !important;
+  color:#a3d6d5;
+  /*background-color: #e3e3e3 !important;*/
+  background-color: #1E1E1E !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  width: 100% !important;
+  min-height: 100% !important;
+  min-width: 100% !important;
+  overflow-x: hidden !important;
+  align-items: center !important;
+
+}
+.header{
+	background-color: #172238 !important;
+	min-height: 100% !important;
+  min-width: 100% !important;
+  overflow-x: hidden !important;
+  padding-bottom: 10px !important;
+}
+.empty-row{
+	width: 100%;
+	/*background-color: #e3e3e3 !important;*/
+}
+/*.Container{
+	background-color: #172238 !important;
+	min-height: 80% !important;
+  	min-width: 80% !important;
+  	overflow-x: hidden !important;
+}*/
+.graph-col{
+	background-color: #172238 !important;
+  color: #172238;
+	/*box-shadow: 0px 0px 5px 0px #ffffff;*/
+	border: 1px solid !important;
+  border-color: #696a6b  !important;
+	/*margin: 20px;*/
+	/*padding-top: 20px;*/
+	
+}
+#banner{
+    width:50%;
+    height: 50%;
+}
+#logo{
+	width:200px !important;
+    height: 60px !important;
+    padding-top: 20px;
+}
+#graph-with-slider{
+	 font-family: "Dosis" !important;
+	 background: rgb(23, 34, 56);
+}
+#chloropeth-graph{
+	 font-family: "Dosis" ;
+   height: 100%  !important;
+   width:100%  !important;
+   min-width: 100%  !important;
+   min-height: 100%  !important;  
+   display: inline-block;
+
+}
+#scatterGraph{
+	background: rgb(57, 81, 85);
+	
+}
+.footer{
+	background-color: #172238 !important;
+	color: #a3d6d5;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Dosis" !important;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  vertical-align: central;
+  text-align: center;
+  font-weight: 350;
+  color: #a3d6d5;
+  }
+p{
+  
+  font-family: "Dosis" !important;
+  color: #576e82;
+  text-align: center;
+}
+#text-green{
+  color:green !important;
+  background-color: #172238 !important;
+ 
+  /*box-shadow: 0px 0px 5px 0px #ffffff;*/
+  border: 1px solid !important;
+  border-color: #696a6b  !important;
+  /*margin: 20px;*/
+  /*padding-top: 20px;*/
+}
+
+.text-red{
+  color: #f23d3d !important;
+  background-color: #172238 !important;
+ 
+  /*box-shadow: 0px 0px 5px 0px #ffffff;*/
+  border: 1px solid !important;
+  border-color: #696a6b  !important;
+  /*margin: 20px;*/
+  /*padding-top: 20px;*/
+}
